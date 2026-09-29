@@ -117,7 +117,7 @@ Rather than presenting an unexplained number, the engine generates contextual di
 +------------------------------------+----------------------------------+
 ```
 
-| Desktop Dashboard | Mobile View & Dark Mode |
+| Desktop Dashboard 
 |:---:|:---:|
 | (<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/ed639827-b50d-43c6-a91c-ad5437a6a38c" />
 )  |

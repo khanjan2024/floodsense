@@ -23,6 +23,21 @@ Despite the frequency of these disasters, everyday citizens and local communitie
 
 ---
 
+## 🔑 Instant Guest Access (No Personal Details Required)
+
+For evaluators, judges, and visitors who prefer not to use personal information: no email confirmation is required. When visiting the app, the **Sign Up** tab is open by default—simply paste these dummy credentials and click **"Create Account"**:
+
+| Field | Value to Paste |
+|---|---|
+| **Full Name** | `Guest Evaluator` |
+| **Email** | `guest@example.com` *(or any fictional email)* |
+| **Password** | `guest1234` *(any 6+ characters)* |
+
+> [!TIP]
+> You do **not** need a real email address or verification link. Entering any dummy email creates an instant, fully functioning session with saved locations and theme preferences.
+
+---
+
 ## ✨ Key Features
 
 - **📍 Hyper-Local Search & Auto-Geolocation:** Search any village, town, or city using OpenStreetMap Nominatim geocoding, or use single-click device geolocation.
@@ -94,39 +109,13 @@ Rather than presenting an unexplained number, the engine generates contextual di
 
 ## 🖼️ Screenshots
 
-> _Tip: Replace these placeholders with actual screenshots of your running application._
-
-### Desktop Dashboard & Risk Outlook
-```
-+-----------------------------------------------------------------------+
-|  FloodSense        Home    Account                   [Toggle] [Logout]|
-+-----------------------------------------------------------------------+
-|  Local flood outlook                                                  |
-|  [ Search: Guwahati, Assam           ] [Search]  (•) Use my location  |
-+------------------------------------+----------------------------------+
-|                                    | Guwahati, Assam      [ HIGH: 78 ]|
-|                                    | -------------------------------- |
-|         [ Interactive Map ]        | • Heavy rainfall: 118mm/7 days   |
-|         Centered on Guwahati       | • River discharge is 2.1x mean   |
-|                                    |                                  |
-|                                    | [ Rainfall & River Flow Chart ]  |
-|                                    |   (Dual-axis Bar & Line Chart)   |
-|                                    |                                  |
-|                                    | [ 7-Day Forecast Cards ]         |
-|                                    | [ Safety Tips: Move to high ground]|
-+------------------------------------+----------------------------------+
-```
-
-| Desktop Dashboard 
+| Desktop Dashboard & Risk Outlook | Account & Location Settings |
 |:---:|:---:|
-| (<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/ed639827-b50d-43c6-a91c-ad5437a6a38c" />
-)  |
+| <img width="1920" height="1080" alt="Dashboard Overview" src="https://github.com/user-attachments/assets/ed639827-b50d-43c6-a91c-ad5437a6a38c" /> | <img width="1920" height="1080" alt="Account Settings" src="https://github.com/user-attachments/assets/c5937046-2469-4773-8cc6-13e689360504" /> |
 
-| Dual-Axis Hydrological Chart | Account & Location Settings |
+| Dual-Axis Hydrological Chart | Mobile & Map View |
 |:---:|:---:|
-| (<img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/d37fe958-cafa-463f-996d-99abc78c4209" />
-) |(<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/c5937046-2469-4773-8cc6-13e689360504" />
-) |
+| <img width="1920" height="1080" alt="Forecast Chart" src="https://github.com/user-attachments/assets/d37fe958-cafa-463f-996d-99abc78c4209" /> | ![Mobile & Map View](screenshots/risk-assessment-map.png) |
 
 ---
 
@@ -195,7 +184,7 @@ Start the local development server:
 npm run dev
 ```
 
-Visit `http://localhost:5173` in your browser.
+Visit `http://localhost:5173` in your browser. You can enter any fictional details on the Sign Up tab (see [Instant Guest Access](#-instant-guest-access-no-personal-details-required)) to test the app with zero setup.
 
 To build for production:
 

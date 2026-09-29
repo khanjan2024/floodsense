@@ -119,11 +119,14 @@ Rather than presenting an unexplained number, the engine generates contextual di
 
 | Desktop Dashboard | Mobile View & Dark Mode |
 |:---:|:---:|
-| ![Desktop View](screenshots/dashboard-overview.png) | ![Mobile View](screenshots/risk-assessment-map.png) |
+| ![Desktop View](<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/ed639827-b50d-43c6-a91c-ad5437a6a38c" />
+)  |
 
 | Dual-Axis Hydrological Chart | Account & Location Settings |
 |:---:|:---:|
-| ![Chart View](screenshots/forecast-chart-days.png) | ![Account View](screenshots/account-settings.png) |
+| ![Chart View](<img width="1920" height="1080" alt="Screenshot (204)" src="https://github.com/user-attachments/assets/d37fe958-cafa-463f-996d-99abc78c4209" />
+) | ![Account View](<img width="1920" height="1080" alt="Screenshot (202)" src="https://github.com/user-attachments/assets/c5937046-2469-4773-8cc6-13e689360504" />
+) |
 
 ---
 

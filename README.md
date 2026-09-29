@@ -119,11 +119,11 @@ Rather than presenting an unexplained number, the engine generates contextual di
 
 | Desktop Dashboard | Mobile View & Dark Mode |
 |:---:|:---:|
-| ![Desktop View](https://placehold.co/600x400/0f172a/38bdf8?text=FloodSense+Desktop+Dashboard) | ![Mobile View](https://placehold.co/300x500/0f172a/38bdf8?text=Mobile+%26+Dark+Mode) |
+| ![Desktop View](screenshots/dashboard-overview.png) | ![Mobile View](screenshots/risk-assessment-map.png) |
 
 | Dual-Axis Hydrological Chart | Account & Location Settings |
 |:---:|:---:|
-| ![Chart View](https://placehold.co/600x350/0f172a/34d399?text=Recharts+Dual-Axis+Forecast) | ![Account View](https://placehold.co/600x350/0f172a/a78bfa?text=Account+Profile+%26+Saved+Location) |
+| ![Chart View](screenshots/forecast-chart-days.png) | ![Account View](screenshots/account-settings.png) |
 
 ---
 
